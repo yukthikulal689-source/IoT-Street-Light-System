@@ -23,4 +23,4 @@ This project automates street lighting using IoT. The system turns ON street lig
 - When light intensity decreases → NodeMCU turns ON light.  
 - When bright → NodeMCU turns OFF light.  
 
-## 📁 Folder Structure
+
